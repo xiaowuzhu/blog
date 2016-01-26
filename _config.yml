@@ -11,26 +11,26 @@ url: http://xiaowuzhu.github.io/blog
 owner:
   name:           Wood
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Hi,Bro"
   email:          157142768@qq.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  #twitter:
+  #facebook:
   github:         
   stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  #linkedin:
+  #instagram:
+  #flickr:
+  #tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  #google_plus:
 
 # Background image to be tiled on all pages
 background: 
 
 # Analytics and webmaster tools stuff goes here
 baidu_analytics: true
-google_verify:      
+#google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
