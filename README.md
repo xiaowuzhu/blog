@@ -1,2 +1,2 @@
 # blog
-http://xiaowuxhu.github.io/blog/
+http://xiaowuzhu.github.io/blog/
